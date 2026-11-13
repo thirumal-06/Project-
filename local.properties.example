@@ -1,0 +1,2 @@
+# Copy to local.properties (Android Studio adds sdk.dir itself). Optional: enables AI chat + mistake correction.
+claude.key=PASTE_YOUR_ANTHROPIC_API_KEY_HERE
